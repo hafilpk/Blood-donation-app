@@ -1,0 +1,1 @@
+It is a web application built using django for finding blood donors easily without wasting time.
