@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'donation',
     'rest_framework',
     'corsheaders',
+    'rest_framework.authtoken',
 ]
 
 AUTH_USER_MODEL = 'app.CustomUser'
